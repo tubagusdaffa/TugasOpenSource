@@ -1,0 +1,7 @@
+# Tubagus Daffa Nabil D
+# 220102084
+
+nama = input("Masukkan Nama: ")
+kelas = input("Masukkan Kelas: ")
+
+print("nama saya " + nama + " dari kelas " + kelas)

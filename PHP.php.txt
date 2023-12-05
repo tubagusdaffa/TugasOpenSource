@@ -1,0 +1,6 @@
+<?php
+// Tubagus Daffa Nabil D
+// 220102084
+
+echo "Halo Semua!";
+?>

@@ -1,0 +1,9 @@
+// Tubagus Daffa Nabil D
+// 220102084
+
+package main
+import "fmt"
+
+func main() {
+    fmt.Println("Halo Semua!")
+}

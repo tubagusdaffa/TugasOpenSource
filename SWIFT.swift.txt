@@ -1,0 +1,6 @@
+// Tubagus Daffa Nabil D
+// 220102084
+import Foundation
+
+// Menampilkan pesan "Hello, World!"
+print("Halo Semua")
